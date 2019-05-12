@@ -1,5 +1,3 @@
-[![Build Status](https://yoshinde.visualstudio.com/First_Test_Project/_apis/build/status/ypshinde.Amazing-Apps?branchName=master)](https://yoshinde.visualstudio.com/First_Test_Project/_build/latest?definitionId=7&branchName=master)
-# above link is for Azure DevOps Pipeline Batch
 # Starter pipeline
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
